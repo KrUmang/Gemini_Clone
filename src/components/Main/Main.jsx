@@ -26,7 +26,7 @@ const Main = () => {
             <>
               <div className="greet">
                 <p>
-                  <span>Hello, Gemini User!</span>
+                  <span>Hello, User!</span>
                 </p>
                 <p>How can I help you today?</p>
               </div>
